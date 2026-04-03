@@ -1,4 +1,4 @@
-# LinkedIn Vagas Bot v2
+# LinkedIn Vagas Bot
 
 Script simples em Python para gerar buscas filtradas de vagas no LinkedIn, com foco em vagas remotas e abertura em lotes menores.
 
@@ -20,7 +20,7 @@ Script simples em Python para gerar buscas filtradas de vagas no LinkedIn, com f
 ## Como usar
 
 ```bash
-python linkedin_vagas_bot_v2.py
+python linkedin_vagas_bot.py
 ```
 
 ## Sugestão de uso
