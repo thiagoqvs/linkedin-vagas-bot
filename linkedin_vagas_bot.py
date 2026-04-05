@@ -2,21 +2,6 @@
 """
 LinkedIn Vagas Bot
 ---------------------------------
-Assistente simples para organizar buscas de vagas no LinkedIn.
-
-O que esta versão faz:
-- gera buscas prontas do LinkedIn com foco em vagas remotas
-- abre as buscas em lotes menores (3 em 3 ou 5 em 5)
-- salva links em TXT e CSV
-- permite navegar pelos lotes sem sobrecarregar o navegador
-- foi pensado para uso pessoal e compartilhamento no GitHub
-
-Importante:
-- este script NÃO faz scraping
-- este script NÃO faz login automático
-- este script NÃO faz candidatura automática
-- ele apenas gera e abre links de busca prontos
-"""
 
 from __future__ import annotations
 
